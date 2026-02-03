@@ -2,8 +2,7 @@
 
 🧠 I'm a senior high school student specializing in Information Technologies. <br/>
 🧩 I build web pages and writing the code that brings them to life.<br/>
-⚙️ I'm passionate about learning new technologies and constantly improving my development skills every day.
-
+⚙️ I'm passionate about learning new technologies and constantly improving my development skills every day.<br/>
 
 # Skills 💻:
 
