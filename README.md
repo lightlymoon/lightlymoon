@@ -19,6 +19,7 @@
 <p align="center">
   <img src="assets/japan.jpg" width="700" />
 </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
   ⚠️ This README is uniquely designed by <strong>@lightlymoon.</strong>
