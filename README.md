@@ -17,7 +17,7 @@
 [![](https://visitcount.itsvg.in/api?id=lightlymoon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="assets/japan.png" width="700" />
+  <img src="assets/japan.jpg" width="700" />
 </p>
 
 
