@@ -16,8 +16,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lightlymoon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/assets/japan.jpg" alt="Japan Image" style="width:auto; height:auto" />
+<br>
 
+<div align="center">
+  <a href="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/van.jpg">
+    <img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/van.jpg" 
+         alt="Lightlymoon Wallpaper" 
+         width="100%" />
+  </a>
+</div>
+
+<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
