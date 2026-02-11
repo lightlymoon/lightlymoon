@@ -1,4 +1,5 @@
 ## Hi, I'm Nuray ✨
+✩ How to reach me ➙ gnuray008@gmail.com
 
 🧠 I'm a senior high school student specializing in Information Technologies. <br/>
 🧩 I build web pages and writing the code that brings them to life.<br/>
