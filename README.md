@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/pets.gif" height="200" width="1000">
+  <img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/pets.gif" height="400" width="1200">
 
 </div>
 
