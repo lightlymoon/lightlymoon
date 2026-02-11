@@ -19,12 +19,12 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/pets.gif" width="600">
+  <img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/pets.gif" width="800">
 
 </div>
 
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100px" height="1" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
   ⚠️ This README is uniquely designed by <strong>@lightlymoon.</strong>
