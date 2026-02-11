@@ -19,11 +19,8 @@
 <br>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/van.jpg">
-    <img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/van.jpg" 
-         alt="Lightlymoon Wallpaper" 
-         width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/pets.gif" width="600">
+
 </div>
 
 <br>
