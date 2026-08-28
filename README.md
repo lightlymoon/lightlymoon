@@ -1,4 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:DB5EA4,100:FFE0F2&text=%20Hi,%20I'm%20Nuray%20✧%20*&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=45&textBg=false"/></img> </br>
+<p ">
+  <a href="https://komarev.com/ghpvc/?username=lightlymoon">
+    <img src="https://komarev.com/ghpvc/?username=lightlymoon&label=Profile%20views&color=F090C4&style=sociale" alt="lightlymoon's profile views" />
+  </a>
+</p>
+</br>
+
 ✩ How to reach me ➙ gnuray008@gmail.com
 
 
@@ -33,6 +40,8 @@
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F090C4&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Bye+bye!" />
 
 <p align="center">
   ⚠️ This README is uniquely designed by <strong>@lightlymoon.</strong>
