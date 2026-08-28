@@ -25,7 +25,8 @@
   <img src="https://raw.githubusercontent.com/lightlymoon/lightlymoon/main/output-onlinegiftools.gif">
 </div>
 
-# GitHub Stats 🌱​:
+
+## GitHub Stats 🌱​:
 
 <p align="center">
   <a href="https://github.com/lightlymoon">
@@ -38,12 +39,15 @@
   <img src="https://trophy.ryglcloud.net/?username=lightlymoon&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nuray's GitHub Trophies" />
 </p>
 
-## 🛠️ Languages & Tools
+## Languages & Tools:
 <p align="center">
   <a href="https://github.com/lightlymoon">
     <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lightlymoon&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F090C4&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Bye+bye!" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -51,14 +55,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F090C4&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Bye+bye!" />
 
 <p align="center">
   ⚠️ This README is uniquely designed by <strong>@lightlymoon.</strong>
