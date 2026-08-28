@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ✩ How to reach me ➙ gnuray008@gmail.com
 
 🧠 I'm a developer specializing in Artificial Intelligence and Software.<br/>
