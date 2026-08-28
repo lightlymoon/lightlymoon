@@ -4,7 +4,7 @@
 <center>
 <p>
   <a href="https://komarev.com/ghpvc/?username=lightlymoon">
-    <img src="https://komarev.com/ghpvc/?username=lightlymoon&label=Profile%20views&color=00FFFF&style=flat-square" alt="lightlymoon's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=lightlymoon&label=Profile%20views&color=F090C4&style=flat-square" alt="lightlymoon's profile views" />
   </a>
 </p>
 </center>
